@@ -28,7 +28,4 @@ This repository is a personal documentation of my journey learning **Git** and *
 ## 🚧 Status
 Work in progress. I will continue updating this repo as I learn more.
 
-## 🙏 Contributions
-This is a personal learning space, but if you have suggestions, resources, or improvements, feel free to open an issue or pull request!
-
 ---
