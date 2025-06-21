@@ -1,2 +1,34 @@
-# learn-github
-A personal space to learn and practice Git &amp; GitHub — from the basics to real-world usage.
+# GitHub Learn 📚
+
+This repository is a personal documentation of my journey learning **Git** and **GitHub** — from the very basics to more advanced workflows. It contains practice exercises, notes, and experiments to strengthen my understanding and prepare me for real-world usage.
+
+## 🎯 Goals
+- Understand core Git concepts (version control, repository, commit, branch, merge, etc.)
+- Get comfortable using GitHub for collaboration and project hosting
+- Build fluency in using Git via the command line
+- Maintain structured notes and practical examples for future reference
+
+## 📂 Repo Structure (subject to grow)
+📁 github-learn
+├── 📄 README.md
+├── 📁 basics/
+│ └── initializing-repo.md
+├── 📁 branching/
+│ └── branch-and-merge-practice.md
+├── 📁 remote/
+│ └── push-pull-guide.md
+└── 📁 notes/
+└── git-core-concepts.md
+
+## 🛠️ Tools Used
+- Git CLI (Command Line Interface)
+- GitHub
+- Visual Studio Code
+
+## 🚧 Status
+Work in progress. I will continue updating this repo as I learn more.
+
+## 🙏 Contributions
+This is a personal learning space, but if you have suggestions, resources, or improvements, feel free to open an issue or pull request!
+
+---
