@@ -29,3 +29,11 @@ This repository is a personal documentation of my journey learning **Git** and *
 Work in progress. I will continue updating this repo as I learn more.
 
 ---
+
+📌 Why Use Branches?
+
+  Isolate features or fixes
+
+  Enable teamwork on different parts of a project
+
+  Experiment without breaking the main project
