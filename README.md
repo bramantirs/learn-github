@@ -30,6 +30,10 @@ Work in progress. I will continue updating this repo as I learn more.
 
 ---
 
-🌿 Branching in Git
+📌 Why Use Branches?
 
-Branching is one of Git's most powerful features. It lets you diverge from the main code line to safely test changes, develop features, or fix bugs — all without affecting the main (master or main) branch.
+  Isolate features or fixes
+
+  Enable teamwork on different parts of a project
+
+  Experiment without breaking the main project
